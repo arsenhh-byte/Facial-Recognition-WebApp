@@ -1,14 +1,21 @@
 import './App.css'
 import Button from 'react-bootstrap/Button';
 import 'bootstrap/dist/css/bootstrap.min.css';
+import { VideoFeed } from './components/VideoFeed';
+// import {FaceRecognition} from './components/FaceRecognition';
 
 function App() {
   
 
   return (
 <div className ="container" >
+      {/* Screen */}
 
-<div className='video-box'> </div>
+<VideoFeed />
+{/* <FaceRecognition /> */}
+
+
+
   <div className='button-wrapper'>
     <Button variant="outline-primary">Start </Button>{' '}
     <Button variant="outline-danger">Stop </Button>{' '}
