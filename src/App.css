@@ -31,7 +31,7 @@ display: flex;
 justify-content: center;
 gap: 35px;
 }
-
+/* 
 .button-wrapper button{
   padding: 10px;
   background-color: #9F64F4;
@@ -41,8 +41,8 @@ gap: 35px;
   cursor: pointer;
   width: 150px;
 
-}
-
+} */
+/* 
 .button-wrapper button:hover{
   padding: 10px;
   background-color: #7C24FA;
@@ -52,7 +52,7 @@ gap: 35px;
   cursor: pointer;
   width: 150px;
   
-}
+} */
 
 .container .text-box{
   width: 50%;
@@ -60,7 +60,7 @@ gap: 35px;
 border: 1px solid #FBE8C9;
 }
 
-
+/* 
 .container .btn {
   padding: 10px;
   background-color: #FBE8C9;
@@ -78,4 +78,4 @@ border: 1px solid #FBE8C9;
   border-radius: 5px;
   cursor: pointer;
   width: 150px;
-}
+} */
