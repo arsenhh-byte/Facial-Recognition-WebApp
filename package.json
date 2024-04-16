@@ -11,11 +11,15 @@
   },
   "dependencies": {
     "@tensorflow-models/blazeface": "^0.1.0",
+    "@tensorflow-models/face-landmarks-detection": "^1.0.5",
+    "@tensorflow-models/facemesh": "^0.0.5",
     "@tensorflow/tfjs": "^4.17.0",
     "bootstrap": "^5.3.3",
+    "face-api.js": "^0.22.2",
     "react": "^18.2.0",
     "react-bootstrap": "^2.10.2",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "webcam-easy": "^1.1.1"
   },
   "devDependencies": {
     "@types/react": "^18.2.66",
